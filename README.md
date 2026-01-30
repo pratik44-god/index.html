@@ -1,6 +1,7 @@
 # HTML Resume Page Assignment
 
 ## Preview of Project 
+<img width="2992" height="2576" alt="127 0 0 1_3000_index html" src="https://github.com/user-attachments/assets/f18e8209-9ce3-4e02-8057-3e6fa4d50082" />
 
 
 
